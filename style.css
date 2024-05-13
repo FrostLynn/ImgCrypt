@@ -1,0 +1,12 @@
+.text-white {
+  color: white;
+}
+
+.bg-grad {
+  height: 10vh;
+  background: linear-gradient(90deg, rgb(15, 12, 41) 0%, rgb(48, 43, 99) 50%, rgb(36, 36, 62) 100%);
+}
+
+.container {
+  height: 100%;
+}
